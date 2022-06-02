@@ -1,0 +1,13 @@
+{
+    "keyboard_name": "SL Keyboard",
+    "url": "https://github.com/vsrivastava3939/sl-kb/",
+    "maintainer": "Vaibhav Srivastava",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "label": "K00 (B1,B2)", "x": 0, "y": 0 },
+                { "label": "K01 (B1,B3)", "x": 1, "y": 0 }
+            ]
+        }
+    }
+}
